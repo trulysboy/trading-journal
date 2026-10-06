@@ -34,7 +34,7 @@ export default function Login() {
   return (
     <div className="auth-page">
       <div className="auth-card">
-        <h1>Trading Journal</h1>
+        <h1>Truly's Trading Journal</h1>
         <p className="auth-subtitle">
           {mode === 'signin' ? 'Log in to your journal' : 'Create your journal account'}
         </p>
